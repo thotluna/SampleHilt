@@ -29,9 +29,9 @@ The Robolectric dependency is used to provide a set of components that are used 
 ## Usage
  When you run the application, you will see the following output: tree button,
 ***
-1. Firs Cap: Test inject field and inject constructor.
-2. Second Cap: Test inject with scope
-3. Third Cap: Test inject with module
+1. Firs example: Test inject field and inject constructor.
+2. Second example: Test inject with scope
+3. Third example: Test inject with module
 
 
 
